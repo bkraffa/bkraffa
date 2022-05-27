@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bkraffa
-- 👀 I’m interested in ... Data Science specially anything that involves classification methods or is related to sports !
+- 👀 I’m interested in ... Data Science specially anything that involves NLP or classification
 - 🌱 I’m currently learning ... some new stuff every single day, thats the goal ! 
 - 💞️ I’m looking to collaborate on ... cool Data Science projects, always up to it ! 
 - 📫 How to reach me ... brunocaraffa@gmail.com or linkedin.com/in/brunocaraffa/
